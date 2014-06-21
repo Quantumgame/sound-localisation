@@ -1,3 +1,16 @@
+# Folders
+ICAM/
+sounds/
+
+#Files
+
+*.sh
+*.wav
+.ipynb_checkpoints/
+*.html
+*.txt
+*.pkl
+*.csv
 *.pyc
 *.pyo
 .DS_Store
